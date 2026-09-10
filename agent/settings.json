@@ -5,7 +5,11 @@
   "defaultModel": "gemini-3.1-pro-preview",
   "packages": [
     "npm:@narumitw/pi-btw",
-    "npm:@sherif-fanous/pi-catppuccin"
+    "npm:@sherif-fanous/pi-catppuccin",
+    "npm:@dietrichgebert/ponytail",
+    "npm:pi-simplify",
+    "npm:@juicesharp/rpiv-ask-user-question",
+    "npm:@juicesharp/rpiv-todo"
   ],
   "terminal": {
     "showTerminalProgress": true
