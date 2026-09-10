@@ -1,0 +1,11 @@
+# secrets
+auth.json
+*service-account*.json
+
+# state & caches
+/agent/models-store.json
+/agent/sessions/
+*.log
+
+# installed external packages
+/agent/npm/
