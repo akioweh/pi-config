@@ -1,8 +1,8 @@
 {
   "lastChangelogVersion": "0.85.1",
   "theme": "catppuccin-mocha",
-  "defaultProvider": "google",
-  "defaultModel": "gemini-3.1-pro-preview",
+  "defaultProvider": "deepseek",
+  "defaultModel": "deepseek-v4-flash",
   "packages": [
     "npm:@narumitw/pi-btw",
     "npm:@sherif-fanous/pi-catppuccin",
