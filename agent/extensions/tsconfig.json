@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "skipLibCheck": true,
+    "typeRoots": [
+      "/usr/lib/node_modules/pi/node_modules/@types"
+    ],
+    "paths": {
+      "@earendil-works/pi-coding-agent": [
+        "/usr/lib/node_modules/pi/packages/coding-agent/dist/index.d.ts"
+      ],
+      "@earendil-works/pi-tui": [
+        "/usr/lib/node_modules/pi/packages/tui/dist/index.d.ts"
+      ]
+    }
+  }
+}
