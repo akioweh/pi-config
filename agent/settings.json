@@ -9,7 +9,8 @@
     "npm:@dietrichgebert/ponytail",
     "npm:pi-simplify",
     "npm:@juicesharp/rpiv-ask-user-question",
-    "npm:@juicesharp/rpiv-todo"
+    "npm:@juicesharp/rpiv-todo",
+    "npm:@monotykamary/pi-tps"
   ],
   "terminal": {
     "showTerminalProgress": true
