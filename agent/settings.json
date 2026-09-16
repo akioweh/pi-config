@@ -17,5 +17,10 @@
   },
   "showCacheMissNotices": true,
   "treeFilterMode": "no-tools",
-  "tuiMode": "fullscreen"
+  "tuiMode": "fullscreen",
+  "enabledModels": [
+    "deepseek/deepseek-v4-flash",
+    "openai-codex/gpt-6-astra",
+    "google/gemini-3.8-flash"
+  ]
 }
