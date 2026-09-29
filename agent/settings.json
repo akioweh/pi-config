@@ -3,6 +3,7 @@
   "theme": "catppuccin-mocha",
   "defaultProvider": "deepseek",
   "defaultModel": "deepseek-flash",
+  "defaultTools": ["+codemode"],
   "packages": [
     "npm:@narumitw/pi-btw",
     "npm:@sherif-fanous/pi-catppuccin",
