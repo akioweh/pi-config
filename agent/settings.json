@@ -2,7 +2,7 @@
   "lastChangelogVersion": "0.99.1",
   "theme": "catppuccin-mocha",
   "defaultProvider": "deepseek",
-  "defaultModel": "deepseek-v4-flash",
+  "defaultModel": "deepseek-flash",
   "packages": [
     "npm:@narumitw/pi-btw",
     "npm:@sherif-fanous/pi-catppuccin",
@@ -19,8 +19,10 @@
   "treeFilterMode": "no-tools",
   "tuiMode": "fullscreen",
   "enabledModels": [
-    "deepseek/deepseek-v4-flash",
     "openai-codex/gpt-6-astra",
-    "google/gemini-3.8-flash"
-  ]
+    "google/gemini-3.8-flash",
+    "deepseek/deepseek-flash",
+    "openai-codex/gpt-6-sol"
+  ],
+  "hideThinkingBlock": true
 }
