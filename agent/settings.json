@@ -28,5 +28,5 @@
     "openai-codex/gpt-6.1-sol"
   ],
   "hideThinkingBlock": false,
-  "defaultThinkingLevel": "low"
+  "defaultThinkingLevel": "medium"
 }
