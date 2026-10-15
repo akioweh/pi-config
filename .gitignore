@@ -9,3 +9,4 @@ auth.json
 
 # installed external packages
 /agent/npm/
+/agent/ssh-workspace
