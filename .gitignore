@@ -6,6 +6,8 @@ auth.json
 /agent/models-store.json
 /agent/sessions/
 *.log
+/agent/gemini-video.json
+/agent/gemini-video.json.*.tmp
 
 # installed external packages
 /agent/npm/

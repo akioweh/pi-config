@@ -10,6 +10,9 @@
       "/usr/lib/node_modules/pi/node_modules/@types"
     ],
     "paths": {
+      "@earendil-works/pi-ai": [
+        "/usr/lib/node_modules/pi/node_modules/@earendil-works/pi-ai/dist/index.d.ts"
+      ],
       "@earendil-works/pi-agent-core": [
         "/usr/lib/node_modules/pi/packages/agent/dist/index.d.ts"
       ],
