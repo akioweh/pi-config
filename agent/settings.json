@@ -28,5 +28,7 @@
     "openai-codex/gpt-6.1-sol"
   ],
   "hideThinkingBlock": false,
+  "cacheWarming": "idle",
+  "enableInstallTelemetry": false,
   "defaultThinkingLevel": "medium"
 }
