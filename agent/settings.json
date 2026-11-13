@@ -1,5 +1,5 @@
 {
-  "lastChangelogVersion": "1.4.0",
+  "lastChangelogVersion": "1.5.2",
   "theme": "catppuccin-mocha",
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-6.1-sol",
@@ -30,5 +30,8 @@
   "hideThinkingBlock": false,
   "cacheWarming": "idle",
   "enableInstallTelemetry": false,
-  "defaultThinkingLevel": "medium"
+  "defaultThinkingLevel": "medium",
+  "extensionChangelogVersions": {
+    "{\"source\":\"npm:@narumitw/pi-btw\",\"scope\":\"user\"}": "0.63.8"
+  }
 }
