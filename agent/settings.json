@@ -24,7 +24,6 @@
   "enabledModels": [
     "openai-codex/gpt-6-astra",
     "google/gemini-3.8-flash",
-    "google/gemini-4-hydrogen",
     "deepseek/deepseek-flash",
     "openai-codex/gpt-6.1-sol"
   ],
