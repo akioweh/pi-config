@@ -1,5 +1,5 @@
 {
-  "lastChangelogVersion": "1.6.0",
+  "lastChangelogVersion": "1.6.1",
   "theme": "catppuccin-mocha",
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-6.2-sol",
@@ -18,7 +18,6 @@
   "terminal": {
     "showTerminalProgress": true
   },
-  "showCacheMissNotices": true,
   "treeFilterMode": "no-tools",
   "tuiMode": "fullscreen",
   "enabledModels": [
@@ -32,6 +31,12 @@
   "enableInstallTelemetry": false,
   "defaultThinkingLevel": "medium",
   "extensionChangelogVersions": {
-    "{\"source\":\"npm:@narumitw/pi-btw\",\"scope\":\"user\"}": "0.63.8"
+    "{\"source\":\"npm:@narumitw/pi-btw\",\"scope\":\"user\"}": "0.63.9"
+  },
+  "notices": {
+    "cacheMisses": true,
+    "cacheWarming": true,
+    "compactionCosts": true,
+    "reasoningDrops": true
   }
 }
